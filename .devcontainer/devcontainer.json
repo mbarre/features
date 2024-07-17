@@ -16,6 +16,7 @@
     "ghcr.io/devcontainers/features/github-cli:1.0.10": {},	    
     "ghcr.io/devcontainers/features/docker-in-docker:2.5.0": {},
     "ghcr.io/devcontainers/features/common-utils:2.1.2": {},
+    "ghcr.io/devcontainers-contrib/features/homebrew-package": {},
     "ghcr.io/lukewiwa/features/shellcheck:0.2.3": {}
 
   },
